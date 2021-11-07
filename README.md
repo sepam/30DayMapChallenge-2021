@@ -3,10 +3,7 @@
 This repository stores my submission to the #30DayMayChallenge of November 2021.
 The original challenge is listed the official repository here: https://github.com/tjukanovt/30DayMapChallenge
 
-
 ![30DayMapChallenge](30dmpc_2021.png)
-
-
 
 ## My Submissions
 | Day | Challenge Date | Production Date | Theme | Details | Submission |
