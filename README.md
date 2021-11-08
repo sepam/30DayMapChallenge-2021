@@ -1,6 +1,6 @@
 # #30DayMapChallenge
 
-This repository stores my submission to the #30DayMayChallenge of November 2021.
+This repository stores my submissions to the #30DayMayChallenge of November 2021.
 The original challenge is listed the official repository here: https://github.com/tjukanovt/30DayMapChallenge
 
 ![30DayMapChallenge](30dmpc_2021.png)
@@ -12,7 +12,7 @@ The original challenge is listed the official repository here: https://github.co
 | 2 | 02-11-2021 | 08-11-2021 | Lines | A map with lines | [link](https://github.com/sepam/30DayMapChallenge-2021/tree/master/day2) |
 
 
-## Data
+## Data Sources
 | Source | Link | Description |
 | --- | --- | --- |
 | OpenStreetMap | [link](https://www.openstreetmap.org/#map=12/1.3649/103.8229) | Official OpenStreetMap Website |
