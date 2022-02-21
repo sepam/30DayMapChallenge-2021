@@ -10,6 +10,7 @@ The original challenge is listed the official repository here: https://github.co
 | --- | --- | --- | --- | --- | --- |
 | 1 | 01-11-2021 | 07-11-2021 | Points | A map with points | [link](https://github.com/sepam/30DayMapChallenge-2021/tree/master/day1) |
 | 2 | 02-11-2021 | 08-11-2021 | Lines | A map with lines | [link](https://github.com/sepam/30DayMapChallenge-2021/tree/master/day2) |
+| 2 | 03-11-2021 |  | Polygons | A map with polygons. | [link]() |
 
 
 ## Data Sources
