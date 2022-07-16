@@ -13,7 +13,6 @@ The original challenge is listed the official repository here: https://github.co
 | 2 | 03-11-2021 |  | Polygons | A map with polygons. | [link]() |
 
 
-## Data Sources
 | Source | Link | Description |
 | --- | --- | --- |
 | OpenStreetMap | [link](https://www.openstreetmap.org/#map=12/1.3649/103.8229) | Official OpenStreetMap Website |
