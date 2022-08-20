@@ -1,2 +1,4 @@
 /examples
 .idea
+*checkpoint.ipynb
+*.gpkg
