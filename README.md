@@ -20,3 +20,4 @@ The original challenge is listed the official repository here: https://github.co
 | Free GIS Data | [link](https://freegisdata.rtwilson.com) | Categorised list of links to over 500 Geographic datasets |
 | GIS Data Repositories | [link](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/edit#gid=50) | A large amount of curated datasources grouped by location, theme, events and others.|
 | HDX | [link](https://data.humdata.org) | The Humanitarian Data Exchange|
+
